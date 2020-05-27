@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EVoter</string>
+    <string name="desc_can">
+        Visi:\n
+        menjadi yang terbaik, bermanfaat\n
+        Misi:\n
+        1.membantu\n
+        2.berbagi\n
+        3.beriman\n
+    </string>
+</resources>
